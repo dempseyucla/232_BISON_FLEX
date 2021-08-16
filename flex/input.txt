@@ -1,0 +1,2 @@
+while (0.4) abc_1_2 = agd + 1;
+if (condition) print ("hello") ;
